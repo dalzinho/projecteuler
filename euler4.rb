@@ -16,4 +16,3 @@ for x in (100..999) do
 end
 
 puts palindromes.sort.pop
-
